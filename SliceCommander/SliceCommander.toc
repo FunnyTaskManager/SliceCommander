@@ -1,0 +1,15 @@
+## Interface: 40300
+## Author: Tomate
+## Version: 4.40
+## Title: |cffc14f2cSlice|r|cff40a740Commander|r
+## Notes: |@Version: 1@|Energy bar, Combo point bar and rogue timer bar.
+## SavedVariables: SC
+## X-Embeds: Ace3
+## X-Category: Interface Enhancements
+
+Embeds.xml
+Locale\Locales.xml
+
+Resources.lua
+SliceCommander.lua
+Config.lua
